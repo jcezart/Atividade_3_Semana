@@ -1,0 +1,24 @@
+
+div{
+    text-align: center;
+    margin-top: 15%;
+}
+a.normal{
+    font-family: Arial, Helvetica, sans-serif;
+    color:royalblue;
+    padding: 5px 5px;
+    border-radius: 7px;
+    background-color: white;      
+}
+a.pmouse{
+    font-family: Arial, Helvetica, sans-serif;
+    color:royalblue;
+    padding: 5px 5px;
+    border-radius: 7px;
+    background-color: white;
+    cursor: pointer;      
+}
+a.pmouse:hover{
+    color:royalblue;
+    background-color: rgb(212, 211, 211);
+}
